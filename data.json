@@ -1,0 +1,106 @@
+[
+  {
+    "Id": 13,
+    "Juz": "5",
+    "Surah": "Al Maidah",
+    "Ayat": "2",
+    "Tanggal": "2023-02-27",
+    "Jam": "19:20"
+  },
+  {
+    "Id": 12,
+    "Juz": "12",
+    "Surah": "Al Maidah",
+    "Ayat": "12",
+    "Tanggal": "2023-02-10",
+    "Jam": "12:09"
+  },
+  {
+    "Id": 11,
+    "Juz": "5",
+    "Surah": "Al Maidah",
+    "Ayat": "2",
+    "Tanggal": "2023-02-027",
+    "Jam": "19:21"
+  },
+  {
+    "Id": 10,
+    "Juz": "4",
+    "Surah": "An Nisa",
+    "Ayat": "6",
+    "Tanggal": "2023-02-26",
+    "Jam": "17:31"
+  },
+  {
+    "Id": 9,
+    "Juz": "4",
+    "Surah": "Ali Imran",
+    "Ayat": "157",
+    "Tanggal": "2023-02-26",
+    "Jam": "14:57"
+  },
+  {
+    "Id": 8,
+    "Juz": "4",
+    "Surah": "Ali Imran",
+    "Ayat": "100",
+    "Tanggal": "2023-02-25",
+    "Jam": "05.36"
+  },
+  {
+    "Id": 7,
+    "Juz": "3",
+    "Surah": "Ali Imran",
+    "Ayat": "29",
+    "Tanggal": "2023-02-25",
+    "Jam": "03.50"
+  },
+  {
+    "Id": 6,
+    "Juz": "3",
+    "Surah": "Al Baqarah",
+    "Ayat": "274",
+    "Tanggal": "2023-02-24",
+    "Jam": "19:23"
+  },
+  {
+    "Id": 5,
+    "Juz": "2",
+    "Surah": "Al Baqarah",
+    "Ayat": "230",
+    "Tanggal": "2023-02-23",
+    "Jam": "12:51"
+  },
+  {
+    "Id": 4,
+    "Juz": "2",
+    "Surah": "Al Baqarah",
+    "Ayat": "181",
+    "Tanggal": "2023-02-23",
+    "Jam": "06:15"
+  },
+  {
+    "Id": 3,
+    "Juz": "1",
+    "Surah": "Al Baqarah",
+    "Ayat": "141",
+    "Tanggal": "2023-02-22",
+    "Jam": "19:23"
+  },
+  {
+    "Id": 2,
+    "Juz": "1",
+    "Surah": "Al Baqarah",
+    "Ayat": "101",
+    "Tanggal": "2023-02-22",
+    "Jam": "16:45"
+  },
+  {
+    "Id": 1,
+    "Juz": "1",
+    "Surah": "Al Baqarah",
+    "Ayat": "57",
+    "Tanggal": "2023-02-22",
+    "Jam": "13:51"
+  }
+]
